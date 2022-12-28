@@ -69,4 +69,6 @@ dependencies {
     implementation 'androidx.compose.runtime:runtime-livedata:1.2.1'
     implementation 'androidx.compose.runtime:runtime-rxjava2:1.2.1'
     androidTestImplementation 'androidx.compose.ui:ui-test-junit4:1.1.1'
+
+    implementation 'androidx.ui:ui-foundation:0.1.0-dev03'
 }
